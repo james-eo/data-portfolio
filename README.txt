@@ -1,30 +1,6 @@
-Editorial by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Data Science Portfolio
+Welcome to my Data Science Portfolio page! Here, you will find a curated collection of personal projects that I have built from scratch, showcasing my skills, expertise, and passion for data science. Each project listed below provides a unique perspective on the world of data and the insights that can be derived from it.
 
+Please feel free to explore these projects by clicking on the links provided, which will redirect you to the respective platforms where these projects were built. Each project represents a unique challenge I undertook and the solutions I developed to extract valuable insights from data.
 
-Say hello to Editorial, a blog/magazine-ish template built around a toggleable "locking"
-sidebar (scroll down to see what I mean) and an accordion-style menu. Not the usual landing
-page/portfolio affair you'd expect to see at HTML5 UP, but I figured for my 41st (!!!)
-template I'd change it up a little. Enjoy :)
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+If you have any questions, feedback, or would like to collaborate on a data science project, please don't hesitate to contact me. Thank you for visiting my portfolio, and I hope you find the projects engaging and informative.
